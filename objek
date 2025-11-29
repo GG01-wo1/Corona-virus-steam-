@@ -1,0 +1,131 @@
+# Corona-virus-steam- 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penjelasan 3D Virus Corona</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: #f7f9fc;
+      color: #222;
+    }
+
+    h1, h2 {
+      color: #1a73e8;
+      margin-bottom: 10px;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    ul {
+      margin-left: 20px;
+    }
+
+    .footer {
+      font-size: 12px;
+      text-align: center;
+      color: #777;
+      margin-top: 40px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 10px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Model 3D Virus Corona</h1>
+  <p>
+    Halaman ini menjelaskan bagian-bagian dari model 3D Virus Corona (SARS-CoV-2)
+    yang dipamerkan pada kegiatan STEAM. Silakan pindai QR code untuk membaca
+    penjelasan lengkapnya.
+  </p>
+
+  <!-- Penjelasan 1 -->
+  <div class="card">
+    <h2>Apa Itu Virus Corona (SARS-CoV-2)?</h2>
+    <p>
+      SARS-CoV-2 adalah virus penyebab penyakit COVID-19. Virus ini berasal dari
+      keluarga <i>coronaviridae</i> yang memiliki ciri khas berupa bentuk bulat dan
+      “mahkota” di permukaannya, yaitu protein spike (S). Virus ini menyerang sistem
+      pernapasan manusia dan menyebar melalui droplet maupun kontak tidak langsung.
+    </p>
+  </div>
+
+  <!-- Penjelasan 2 -->
+  <div class="card">
+    <h2>Struktur Utama Virus</h2>
+
+    <h3>1. Spike Protein (S)</h3>
+    <p>
+      Bagian ini berfungsi sebagai “kunci” untuk menempel dan masuk ke sel manusia.
+      Protein spike mengikat reseptor ACE2 pada sel inang. Dalam model 3D, bagian ini
+      biasanya digambarkan sebagai tonjolan merah.
+    </p>
+
+    <h3>2. Envelope (E)</h3>
+    <p>
+      Lapisan tipis yang menjaga stabilitas struktur virus. Meskipun kecil, bagian ini
+      berperan dalam proses perakitan virus baru di dalam sel.
+    </p>
+
+    <h3>3. Membrane (M)</h3>
+    <p>
+      Komponen yang membentuk kerangka utama virus. Membrane protein menentukan
+      bentuk virus agar tetap bulat dan stabil.
+    </p>
+
+    <h3>4. Nucleocapsid (N)</h3>
+    <p>
+      Protein yang membungkus materi genetik virus (RNA). Bagian inilah yang memungkinkan
+      virus memperbanyak diri setelah memasuki sel manusia.
+    </p>
+  </div>
+
+  <!-- Penjelasan 3 -->
+  <div class="card">
+    <h2>Bagaimana Virus Menginfeksi Sel?</h2>
+    <p>
+      1. Spike protein menempel pada reseptor ACE2 di permukaan sel manusia.  
+      2. Sel membuka jalan masuk setelah spike berikatan kuat.  
+      3. Virus melepaskan RNA ke dalam sel.  
+      4. Sel manusia dipaksa memproduksi komponen virus baru.  
+      5. Virus baru keluar dan menginfeksi sel lain.
+    </p>
+  </div>
+
+  <!-- Penjelasan 4 -->
+  <div class="card">
+    <h2>Fakta Ilmiah Singkat</h2>
+    <ul>
+      <li>Virus corona berukuran sekitar 60–140 nm (sangat kecil).</li>
+      <li>SARS-CoV-2 muncul pada 2019 dan menimbulkan pandemi global.</li>
+      <li>Spike protein menjadi target utama vaksin mRNA (Pfizer/Moderna).</li>
+      <li>Virus tidak dapat hidup sendiri; harus berada di dalam sel inang.</li>
+    </ul>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    © 2025 — STEAM Project | Penjelasan Model 3D Virus Corona
+  </div>
+
+</body>
+</html>
